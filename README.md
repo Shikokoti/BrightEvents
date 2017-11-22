@@ -1,2 +1,2 @@
 # BrightEvents
-Link to my github page https://github.com/Shikokoti/ellis.github.io-
+Link to my github page https://shikokoti.github.io/
